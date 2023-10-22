@@ -1,4 +1,4 @@
-# Makine Öğrenmesi İle Melbourne Ev Fiyatları Tahmin Eden Model Geliştirilmesi
+# Makine Öğrenmesi İle Melbourne Ev Fiyatlarını Tahmin Eden Modelin Geliştirilmesi
 
 ## Proje Açıklaması
 Bu proje, Akbank Makine Öğrenmesi Bootcamp kapsamında gerçekleştirilen bir grup çalışmasıdır. Grup üyeleri Yusuf Akçakaya ve Muhammet Coşlkundur. Proje, Melbourne'deki ev fiyatlarını tahminleme amacı gütmektedir. Proje, çeşitli makine öğrenmesi algoritmalarını kullanarak, ev fiyatlarını etkileyen faktörleri incelemeyi ve bir tahmin modeli oluşturmayı hedeflemektedir.
